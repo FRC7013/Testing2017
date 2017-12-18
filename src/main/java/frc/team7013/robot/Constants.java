@@ -12,8 +12,11 @@ public class Constants {
     static int joy_dpad_left = 0;
     static int joy_dpade_right = 0;
 
-    static int joy_tirgger_left = 0;
-    static int joy_trigger_right= 0;
+    static int joy_bumper_left = 0;
+    static int joy_bumper_right= 0;
+
+    static int joy_trigger_left = 0;
+    static int getJoy_trigger_right = 0;
 
     static int joy_left_stick_x = 0;
     static int joy_left_stick_y = 0;
